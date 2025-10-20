@@ -128,6 +128,15 @@ flex-direction: column;
   width: 40%;   
   height: auto; 
 }
+.final ul {
+  text-align: left;
+}
+.final li{
+  margin-top: 5px;
+}
+#lista1 {
+  text-align: left;
+}
 h1 {color: white;
    }
    h2 {
